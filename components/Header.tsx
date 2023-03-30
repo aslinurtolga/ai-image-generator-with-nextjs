@@ -14,10 +14,10 @@ function Header() {
         />
         <div>
           <h1 className="font-bold">
-            The TOLGA <span className="text-rose-500">AI</span> Image Generator
+            The TOLGA <span className="text-green-500">AI</span> Image Generator
           </h1>
           <h2 className="text-xs">
-            Powered by DALL E 2, Chat GPT & Microsoft Azure
+            Powered by DALL-E 2, Chat GPT & Microsoft Azure
           </h2>
         </div>
       </div>
